@@ -1,0 +1,17 @@
+{
+    "version": 1,
+    "signatures": [
+        {
+            "name": "External Require",
+            "pattern": "require("
+        },
+        {
+            "name": "HttpGet",
+            "pattern": "HttpGet"
+        },
+        {
+            "name": "Loadstring",
+            "pattern": "loadstring"
+        }
+    ]
+}
